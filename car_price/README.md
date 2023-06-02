@@ -2,7 +2,7 @@
 
 - **Features**
 
-- *price* : cars' price
+- *price* : cars' prices
 - *model_year* : release year
 - *model* : vehicle model
 - *condition* : vehicle condition score
