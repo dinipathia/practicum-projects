@@ -24,24 +24,10 @@
 
 ## Goal:
 
-Comparing gradient boosting methods with random forest, decision tree, and linear regression and analyzing the speed and quality of the models.
+Analyzing car prices using used-car data based on various aspect conditions of the vehicles for determine the market value of the car.
 
 ## Libraries used:
 
 pandas
 
-catboost
-
-time
-
-sklearn.ensemble
-
-sklearn.linear_model
-
-sklearn.metrics
-
-sklearn.model_selection
-
-sklearn.preprocessing
-
-lightgbm
+matplotlib
