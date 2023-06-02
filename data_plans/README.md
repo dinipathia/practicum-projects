@@ -63,3 +63,5 @@ numpy
 math
 
 scipy
+
+matplotlib
