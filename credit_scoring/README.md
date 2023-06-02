@@ -21,4 +21,3 @@ Analyzing customer data to determine the likelihood that a customer defaults on 
 
 pandas
 
-nltk
