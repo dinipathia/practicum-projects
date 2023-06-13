@@ -26,6 +26,4 @@ math
 
 scipy
 
-functools
-
 matplotlib.pyplot
