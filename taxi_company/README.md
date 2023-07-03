@@ -7,4 +7,4 @@
 Identifying the top taxi companies, neighborhoods with the most drop-offs, and conducting hypothesis testing
 
 # Libraries
-pandas, matplotlib, scipy, numpy, nltk
+pandas, matplotlib, scipy, numpy, math, seaborn
