@@ -1,20 +1,22 @@
 ## Data
 
-- *Name**
-- **Platform*
-- Year_of_Release
-- **Genre*
-- NA_sales* (North American sales in USD million)
-- *EU_sales* (sales in Europe in USD million)
-- *JP_sales* (sales in Japan in USD million)
-- *Other_sales* (sales in other countries in USD million)
-- *Critic_Score* (maximum of 100)
-- *User_Score* (maximum of 10)
-- *Rating* (ESRB)
+- *Uid* : User ID
+- *Device* : user's device
+- *Start Ts* : date & time of session started
+- *End Ts* : date & time of session ended
+- *Source Id* : source ID of where user click the website from
+
+- *Uid* : User ID who make the order
+- *Buy Ts* : date & time of the order
+- *Revenue* : revenue Y.Afisha of each order
+
+- *source_id* : source ID of where the advertisement from
+- *dt* : date of advertizing
+- *costs* : cost of each advertisement on each date
 
 ## Goal:
 
-Identifying trends and patterns to determine game genres with the highest potential profit, and comparing different video game platforms.
+This project aims to analyze each marketing platform used by Y.Afisha store for marketing optimization
 
 ## Libraries used:
 
@@ -26,6 +28,6 @@ math
 
 scipy
 
-functools
+seaborn
 
 matplotlib.pyplot
