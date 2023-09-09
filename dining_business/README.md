@@ -1,31 +1,27 @@
 ## Data
 
-- *Name**
-- **Platform*
-- Year_of_Release
-- **Genre*
-- NA_sales* (North American sales in USD million)
-- *EU_sales* (sales in Europe in USD million)
-- *JP_sales* (sales in Japan in USD million)
-- *Other_sales* (sales in other countries in USD million)
-- *Critic_Score* (maximum of 100)
-- *User_Score* (maximum of 10)
-- *Rating* (ESRB)
+- *Object_name* (name of the dining business)
+- *chain* (franchise based or not (TRUE/FALSE))
+- *object_type* (business type)
+- *address* 
+- *number* (number of seats)
 
 ## Goal:
 
-Identifying trends and patterns to determine game genres with the highest potential profit, and comparing different video game platforms.
+This project aims to analyze market research of dining business in LA to provide data-based recommendations
 
 ## Libraries used:
 
 pandas
 
-numpy
+scipy
 
 math
 
-scipy
+numpy
 
-functools
+seaborn
+
+graph_objects
 
 matplotlib.pyplot
