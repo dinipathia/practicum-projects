@@ -1,20 +1,13 @@
 ## Data
 
-- *Name**
-- **Platform*
-- Year_of_Release
-- **Genre*
-- NA_sales* (North American sales in USD million)
-- *EU_sales* (sales in Europe in USD million)
-- *JP_sales* (sales in Japan in USD million)
-- *Other_sales* (sales in other countries in USD million)
-- *Critic_Score* (maximum of 100)
-- *User_Score* (maximum of 10)
-- *Rating* (ESRB)
-
+- EventName : name of event
+- DeviceIDHash : users' ID
+- EventTimestamp : event timestamp
+- ExpId : experiment ID number : 246 and 247 are the control group, 248 is the testing group
+  
 ## Goal:
 
-Identifying trends and patterns to determine game genres with the highest potential profit, and comparing different video game platforms.
+This project aims to conduct A/A/B testing analysis on an online food store application, to determine new font testing result on the app to figure out which font will give the best results on converting visitors to be buyers.
 
 ## Libraries used:
 
@@ -26,6 +19,8 @@ math
 
 scipy
 
-functools
-
 matplotlib.pyplot
+
+seaborn
+
+graph_objects
