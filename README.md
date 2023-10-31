@@ -11,6 +11,7 @@ Compilation of all projects completed in Practicum's Data Analysis Professional 
 |[Marketing Platform Optimization](marketing_optimization)|Analyzing each marketing platform used by Y.Afisha store for marketing optimization (Content in English)|*pandas, matplotlib, scipy, numpy, math,seaborn*|
 |[AB Testing Analysis on Online Shop](ab_testing_analysis)|Conducting A/B testing analysis of online shop web traffic, to determine result of the test or on how the test will be proceeded (Content in English)|*pandas, matplotlib, scipy, numpy, math,seaborn*|
 |[Dining Business Market Research](dining_business)|Analyzing market research of dining business in LA to provide data-based recommendations (Content in English)|*pandas, matplotlib, scipy, numpy, math,seaborn*|
-
+|[Analysis on Online Food Store App](aab_testing_analysis)|Conducting A/A/B testing analysis on an online food store application, to determine new font testing result on the app to figure out which font will give the best results on converting visitors to be buyers (Content in English)|*pandas, matplotlib, scipy, numpy, math,seaborn, graph_objects*|
+|[Model Learning on Fitness Centre](model_learning)|Analyzing Model Fitness' customer profiles and develop customer retention strategies (Content in English)|*pandas, matplotlib, scipy, numpy, math,seaborn, graph_objects, sklearn*|
 
 *Projects are listed in the order that they were completed.*
