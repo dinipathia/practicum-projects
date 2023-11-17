@@ -1,20 +1,18 @@
 ## Data
 
-- *Name**
-- **Platform*
-- Year_of_Release
-- **Genre*
-- NA_sales* (North American sales in USD million)
-- *EU_sales* (sales in Europe in USD million)
-- *JP_sales* (sales in Japan in USD million)
-- *Other_sales* (sales in other countries in USD million)
-- *Critic_Score* (maximum of 100)
-- *User_Score* (maximum of 10)
-- *Rating* (ESRB)
+- purchaseId
+- item_ID
+- purchasedate
+- Quantity : number of items purchased
+- CustomerID
+- ShopID
+- loyalty_program : customers' status as a member of a loyalty program or not
+- productID
+- price_per_one
 
 ## Goal:
 
-Identifying trends and patterns to determine game genres with the highest potential profit, and comparing different video game platforms.
+This project aims to evaluate the stores performance appraisal, to figure out any aspects might need to be improved, particularly for the stores with the least performance appraisal.
 
 ## Libraries used:
 
@@ -26,6 +24,6 @@ math
 
 scipy
 
-functools
+seaborn
 
-matplotlib.pyplot
+matplotlib
